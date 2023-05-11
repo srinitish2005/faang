@@ -13,7 +13,7 @@ def positive_or_negative(num):
        ans = "NEGATIVE"
        
    else:
-       ans = "ZERO"
+       ans = "ZERO"#hello
     
    return ans
 import unittest
